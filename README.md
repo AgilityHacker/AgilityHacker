@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AgilityHacker. 30+ years experience in Software and Business Architecture for global players
 - 👀 I’m interested in applying technologies for the good of people
-- 🌱 I’m currently learning to code python for ai related fun
+- 🌱 I’m currently learning to code python for ai related projects
 - 💞️ I’m looking to collaborate on learning how this all makes sense
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
